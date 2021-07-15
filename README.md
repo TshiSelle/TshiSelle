@@ -22,6 +22,6 @@
   - 🏎️C#🏎️
  ---
 - 💞️ I’m looking to collaborate on funtime programming
-- 📫 How to reach me => var mail= 'omar.houssami20@gmail.com'
+- 📫 How to reach me => $to = "omar.houssami20@gmail.com";
 
 
