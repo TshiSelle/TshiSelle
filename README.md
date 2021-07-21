@@ -17,7 +17,9 @@
   - ⚛️React JS⚛️
   - 🍏Swift🍎 
   - ☕️Java☕️
+  - 🐍Python🐍
   - 💿SQL📀 
+  - 🍃MongoDB🍃
   - 🕹️C++🕹️ 
   - 🏎️C#🏎️
  ---
