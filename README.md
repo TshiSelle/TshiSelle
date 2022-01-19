@@ -9,6 +9,7 @@
 - 👀 I’m interested in
 - [x] Full-stack Software Development
 - [x] Game Development 
+- [x] Data Analysis
 - [x] SEO
 ---
 - 🖥️ I’m currently *learning*:
