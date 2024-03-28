@@ -3,7 +3,7 @@
 {
   "firstName": "Omar",
   "lastName": "Houssami",
-  "age": 22
+  "age": 23
 }
 ```
 - 👀 I’m interested in
@@ -17,13 +17,9 @@
   - ⌨️JavaScript⌨️
   - 💠Node JS💠
   - ⚛️React JS⚛️
-  - 🍏Swift🍎 
   - ☕️Java☕️
   - 🐍Python🐍
-  - 💿SQL📀 
   - 🍃MongoDB🍃
-  - 🕹️C++🕹️ 
-  - 🏎️C#🏎️
  ---
 - 💞️ I’m looking to collaborate on funtime programming
 - 📫 How to reach me => $to = "omar.houssami20@gmail.com";
